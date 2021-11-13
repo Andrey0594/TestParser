@@ -1,0 +1,9 @@
+E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\bin\Debug\TestParser.exe.config
+E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\bin\Debug\TestParser.exe
+E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\bin\Debug\TestParser.pdb
+E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\obj\Debug\TestParser.csprojAssemblyReference.cache
+E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\obj\Debug\TestParser.Properties.Resources.resources
+E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\obj\Debug\TestParser.csproj.GenerateResource.cache
+E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\obj\Debug\TestParser.exe
+E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\obj\Debug\TestParser.pdb
+E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\obj\Debug\TestParser.MainForm.resources
