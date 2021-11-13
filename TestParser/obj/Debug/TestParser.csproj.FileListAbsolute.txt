@@ -7,3 +7,7 @@ E:\Программы\Собеседование\АлмазАнтей\TestParser
 E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\obj\Debug\TestParser.exe
 E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\obj\Debug\TestParser.pdb
 E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\obj\Debug\TestParser.MainForm.resources
+E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\bin\Debug\TestParser.exe.manifest
+E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\bin\Debug\TestParser.application
+E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\obj\Debug\TestParser.exe.manifest
+E:\Программы\Собеседование\АлмазАнтей\TestParser\TestParser\obj\Debug\TestParser.application
